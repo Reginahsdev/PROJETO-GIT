@@ -1,0 +1,21 @@
+Instalando o GIT 
+Pesquise no Google por GIT Download
+https://git-scm.com/downloads
+Baixe no Windows ou no sistema operacional que você usar 
+De next até a antepenultima opção, 
+Na ultima escolha a opção Launch Git Bash de enter deixe baixar
+Enquanto isso faça uma pasta na area de trabalho 
+E nomeie como Projeto Git  e coloque o arquivo dentro
+Clique com o botão direito e escolha a opção Git Bash Here
+Escreva o comando Git --version de enter 
+Ele vai te mostrar a versão atual do Git que foi instalado
+Se não aparecer deu erro na instalação
+Agora na pasta Projeto Git clique com o botão direito a janela
+E selecione abrir com o code se você já tiver o Visual Code instalado
+Ele ajuda muito a otimizar seu trabalho 
+E crie um projeto com o nome README.MD de enter e escreva o que quiser
+ no seu projeto como esse por exemplo foi feito no VS Code
+ No Git bash você vai escrever o comando Git init para criar seu repositorio
+ E depois subir no Git Hub
+E Você também pode usar o Git aqui direto no VS Code é só configurar
+espero que eu tenha ajudado na sua instalação do Git 
